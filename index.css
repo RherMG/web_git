@@ -1,0 +1,16 @@
+body {
+    color: aqua;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    text-indent: 50px;
+    color: aquamarine;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
